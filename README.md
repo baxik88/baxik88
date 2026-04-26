@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**baxik88/baxik88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Igor — Healthcare Software & ML Engineer 🩺                                 
+                  
+  Building medical information systems and AI tools for healthcare workflows.   
+   
+  **Focus:** EMR/MIS, FHIR/HL7 integration, clinical AI                         
+  **Stack:** Python, Django, Next.js, PostgreSQL, ML/AI
+  **Location:** Ottawa, Canada                                                  
+                  
+  🔭 **Currently:** Founder & lead engineer at Sync-On Inc., building medical   
+  software        
+  📚 **Background:** UofT Data Science & ML                                     
+  🌱 **Interests:** Healthcare AI scribes, medical imaging, clinical workflow   
+  automation                                                                    
+                                                                                
+  📫 LinkedIn: [igorbak](https://linkedin.com/in/igorbak)
