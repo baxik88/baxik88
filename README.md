@@ -44,6 +44,6 @@ _Building medical information systems and AI tools for healthcare workflows_
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/igorbak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorbak/)
 
 ![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=baxik88&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
