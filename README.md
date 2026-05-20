@@ -1,4 +1,4 @@
-# Igor — Healthcare Software & ML Engineer 🩺
+# Igor - Healthcare Software & ML Engineer 🩺
 
 _Building medical information systems and AI tools for healthcare workflows_
 
