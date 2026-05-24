@@ -8,11 +8,11 @@ _Building medical information systems and AI tools for healthcare workflows_
 
 ### 🧠 What I Build
 
-- **Medical Information Systems (MIS / EMR)** — full-stack clinical platforms
-- **Healthcare AI** — clinical workflow automation, AI scribes, medical imaging
-- **Standards Integration** — FHIR / HL7 interoperability layers
-- **Mobile Health Apps** — patient-facing & clinical mobile tools
-- **Data Pipelines** — clinical analytics, reporting, decision support
+- **Medical Information Systems (MIS / EMR):** full-stack clinical platforms
+- **Healthcare AI:** clinical workflow automation, AI scribes, medical imaging
+- **Standards Integration:** FHIR / HL7 interoperability layers
+- **Mobile Health Apps:** patient-facing & clinical mobile tools
+- **Data Pipelines:** clinical analytics, reporting, decision support
 
 ### 🛠 Tech Stack
 
@@ -34,16 +34,14 @@ _Building medical information systems and AI tools for healthcare workflows_
 
 ### 🎓 Background
 
-- 🎯 Currently — building healthcare software at scale
-- 📚 University of Toronto — Data Science & Machine Learning
+- 🎯 Currently: building healthcare software at scale
+- 📚 University of Toronto: Data Science & Machine Learning
 - 🩺 Years of hands-on work in clinical software & medical workflows
 
 ### 🌱 Current Interests
 
-`Healthcare AI` · `Medical Imaging` · `Clinical Workflow Automation` · `FHIR / HL7` · `LLMs in Medicine` · `Mobile Health`
+`Healthcare AI` · `Medical Imaging` · `Clinical Workflow Automation` · `FHIR / HL7` · `LLMs in Medicine`
 
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorbak/)
-
-![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=baxik88&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
